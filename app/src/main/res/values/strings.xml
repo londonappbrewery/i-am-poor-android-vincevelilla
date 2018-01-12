@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name">motivation</string>
+    <string name="textView">I am poor, and it will stay that way if I don\'t fix myself</string>
 </resources>
